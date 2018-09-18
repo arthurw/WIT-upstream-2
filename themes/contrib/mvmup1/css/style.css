@@ -1,0 +1,6 @@
+#header {background-color: #ffffff;
+background-image:none;
+}
+
+#header .site-branding__logo img {width:300px;}
+#header .site-branding__name a {color:#000000;}
